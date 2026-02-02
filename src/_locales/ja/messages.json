@@ -1,0 +1,30 @@
+{
+  "extensionName": {
+    "message": "タブ並び替え"
+  },
+  "extensionDescription": {
+    "message": "複数の条件でタブを並び替えます"
+  },
+  "browserActionTitle": {
+    "message": "タブ並び替え"
+  },
+
+  "pickerTitle": {
+    "message": "タブ並び替え"
+  },
+
+  "menu_sort_by_url_asc": { "message": "URL順で並び替え（昇順）" },
+  "menu_sort_by_url_desc": { "message": "URL順で並び替え（降順）" },
+
+  "menu_sort_by_domain_asc": { "message": "ドメイン順で並び替え（昇順）" },
+  "menu_sort_by_domain_desc": { "message": "ドメイン順で並び替え（降順）" },
+
+  "menu_sort_by_title_asc": { "message": "タイトル順で並び替え（昇順）" },
+  "menu_sort_by_title_desc": { "message": "タイトル順で並び替え（降順）" },
+
+  "menu_sort_by_last_access_asc": { "message": "最終アクセス順で並び替え（昇順）" },
+  "menu_sort_by_last_access_desc": { "message": "最終アクセス順で並び替え（降順）" },
+
+  "settings_sort_auto": { "message": "自動で並び替える" },
+  "settings_sort_pinned": { "message": "固定（ピン留め）タブも並び替える" }
+}

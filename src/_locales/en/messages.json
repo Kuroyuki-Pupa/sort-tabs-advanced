@@ -1,0 +1,30 @@
+{
+  "extensionName": {
+    "message": "Sort tabs advanced"
+  },
+  "extensionDescription": {
+    "message": "Sort tabs by various criteria"
+  },
+  "browserActionTitle": {
+    "message": "Sort tabs advanced"
+  },
+
+  "pickerTitle": {
+    "message": "sort tabs picker"
+  },
+
+  "menu_sort_by_url_asc": { "message": "sort by url (asc)" },
+  "menu_sort_by_url_desc": { "message": "sort by url (desc)" },
+
+  "menu_sort_by_domain_asc": { "message": "sort by domain (asc)" },
+  "menu_sort_by_domain_desc": { "message": "sort by domain (desc)" },
+
+  "menu_sort_by_title_asc": { "message": "sort by title (asc)" },
+  "menu_sort_by_title_desc": { "message": "sort by title (desc)" },
+
+  "menu_sort_by_last_access_asc": { "message": "sort by last access (asc)" },
+  "menu_sort_by_last_access_desc": { "message": "sort by last access (desc)" },
+
+  "settings_sort_auto": { "message": "sort automatically" },
+  "settings_sort_pinned": { "message": "sort pinned tabs" }
+}
